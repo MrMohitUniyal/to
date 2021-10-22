@@ -1,0 +1,23 @@
+body {
+  background-color: #e0ece4;
+}
+h1{
+  color:#66BFBF;
+  font-family: 'Roman', serif;
+
+}
+h3{
+    color:#66BFBF;
+    font-family: 'Courier New',monospace;
+}
+hr {
+borderstyle: none
+border-top-style: dotted;
+border-width:
+border-width:4px;
+width: 4%;
+}
+img :hover{
+  background-color: gold;
+}
+body
